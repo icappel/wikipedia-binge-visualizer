@@ -6,4 +6,4 @@ This project is not finished. I started it about a year ago but other tasks came
 
 To see what's currently working, you can run `npm i` followed by `npm start`. Then navigate to http://localhost:8000/
 
-![Screenshot of Wikipedia Binge Visualizer](wiki-binge.png)
+![Screenshot of Wikipedia Binge Visualizer](wiki_binge.png)
