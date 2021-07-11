@@ -1,0 +1,45 @@
+/* The MIT License (MIT) Copyright © 2016 Fran Peručić 
+    Heavily edited by Ian Cappellani*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+    
+body {
+    background-color: #ffffff;
+}
+
+.chart { 
+    margin: 5px;
+    height: 200vh;
+    width: 200vw;
+}
+
+.Treant > p { 
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", 
+    sans-serif; 
+    font-weight: bold; 
+    font-size: 12px;
+}
+.node-name { 
+    font-weight: bold;
+    text-align: center;
+}
+
+.nodeExample1 {
+    padding: 2px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    width: 15em;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.nodeExample1 img {
+    /* margin-right:  10px; */
+    width: 100%;
+    float: none !important;
+}
+
